@@ -19,6 +19,8 @@ A simple to-do list app built with Flutter. This app allows users to add, delete
 To get started with this project, follow these steps:
 
 1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/your-username/flutter-todo-app.git
+```bash
+git clone https://github.com/fahadfarooq40/flutter-todo-app.git
+cd flutter-todo-app
+flutter pub get
+flutter run
