@@ -1,16 +1,24 @@
-# tobo_app
+# Flutter To-Do App
 
-A new Flutter project.
+A simple to-do list app built with Flutter. This app allows users to add, delete, update, and search for to-do items. It provides a clean and intuitive user interface for managing tasks.
+
+## Features
+
+- **Add**: Easily add new to-do items to your list.
+- **Delete**: Remove completed or unnecessary tasks with a simple swipe gesture.
+- **Search**: Quickly find specific tasks by searching for keywords.
+- **Cross-platform**: Works seamlessly on both Android and iOS devices.
+- **Responsive**: Designed to adapt to various screen sizes, including phones and tablets.
+
+## Screenshots
+![Colorful Planner Mobile App Promotion Instagram Post](https://github.com/FahadFarooq40/Tubo-App/assets/104043766/e56670f0-798c-470f-ba6d-aff366a6d137)
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone the repository**:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   git clone https://github.com/your-username/flutter-todo-app.git
