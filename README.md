@@ -1,6 +1,6 @@
 # Flutter To-Do App
 
-A simple to-do list app built with Flutter. This app allows users to add, delete, update, and search for to-do items. It provides a clean and intuitive user interface for managing tasks.
+A simple to-do list app built with Flutter. This app allows users to add, delete, update, and search for to-do items. It provides a clean and intuitive user interface for managing tasks.  👍
 
 ## Features
 
